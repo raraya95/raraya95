@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Swimlane](https://swimlane.com/)
 - 🌱 I’m currently learning Nodejs, specifically [Nestjs framework](https://nestjs.com/)
-- 🏍 Passionate about mororcylce and races
+- 🏍 Passionate about motorcylces and races
 
 #### You can visit my professional social media
 [LinkedIn](https://www.linkedin.com/in/roy-araya-araya-274708133/)
